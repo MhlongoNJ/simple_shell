@@ -36,7 +36,7 @@ return (-2);
 }
 
 /**
-* _mycd -  this function changes current directory of a process
+* _my_cd -  this function changes current directory of a process
 * @info: Structure that is containing potential arguments.
 * that are Used to maintain
 *          constant function prototype.
